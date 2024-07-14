@@ -1,0 +1,11 @@
+test_set
+test_set_MTCNN
+test_set_MTCNN_NN2
+train_detector_df_cw
+training_set_detector
+*.ini
+*.drawio
+log_file
+selected_data.gsheet
+*.pth
+*.pkl
